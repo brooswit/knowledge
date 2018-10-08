@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "siteName": "Jay Winstead's knowledge base",
+        "rootDocKey": "amazonkindlefire-playstore-and-chromecast"
+    },
+    "docs": {
+        "amazonkindlefire-playstore-and-chromecast": {
+            "title": "Play store and Chromecast on Amazon Kindle Fire",
+            "author": "Jay Winstead",
+            "path": "./amazonkindlefire-playstore-and-chromecast.md"
+        }
+    }
+}
