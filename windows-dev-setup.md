@@ -17,14 +17,17 @@ Setup instructions can be found here: https://scoop.sh/
 
 ### A) tools
 `scoop install git`
+
 `scoop install curl`
 
 ### B) Background services
 `scoop install redis`
+
 `scoop install mongodb`
 
 ### C) Runtimes
 `scoop install nodejs`
+
 `scoop install python`
 
 ## Step 3: Useful software
