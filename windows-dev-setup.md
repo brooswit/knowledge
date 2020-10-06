@@ -40,6 +40,7 @@ Here are some useful packages
 
 https://www.autohotkey.com
 https://github.com/brooswit/autohotkey-monorepo
+https://github.com/microsoft/PowerToys/releases/
 
 ## Helpful Guides
 
